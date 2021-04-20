@@ -14,6 +14,10 @@ author: Chaorong
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  HOME: "https://crchen12.github.io"
+  SOFTWARE: "https://crchen12.github.io/software"
+  NEWS&EVENT: "https://crchen12.github.io/news"
+  CONTACT: "https://crchen12.github.io/contact"
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
@@ -39,9 +43,9 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "crchen12@gmail.com"
   facebook: deanattali
-  github: daattali
+  github: crchen12
   twitter: daattali
   patreon: DeanAttali
   youtube: c/daattali
@@ -78,7 +82,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "crchen12.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
